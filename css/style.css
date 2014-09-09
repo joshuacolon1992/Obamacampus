@@ -45,7 +45,7 @@ h4, h5, h6
 { margin: 0;
   padding: 0 0 0px 0;
   font: normal 150% 'News Cycle', Arial, sans-serif;
-  color: #FFF;
+  color: #000;
   line-height: 1.5em;}
 
 h5, h6
@@ -85,10 +85,10 @@ ol li
   
 header
 { height: 150px;
-  background: #1d1d1d;
-  background: -moz-linear-gradient(#535353, #000);
-  background: -o-linear-gradient(#535353, #000);
-  background: -webkit-linear-gradient(#535353, #000);}
+  background: #1c75bc;
+  background: -moz-linear-gradient(#7f7f7f, #1c75bc);
+  background: -o-linear-gradient(#7f7f7f, #1c75bc);
+  background: -webkit-linear-gradient(#7f7f7f, #1c75bc);}
  
 nav
 { height: 60px;}  
@@ -153,7 +153,7 @@ ul#nav li.current a, ul#nav li:hover a
   
 #slideshow_container
 { height: 270px;
-  background: #0043A8;
+  background: #1c75bc;
   padding-top: 20px;}
   
 .slideshow
