@@ -8,8 +8,8 @@ html
 { height: 100%;}
 
 *
-{ margin: 0;
-  padding: 0;}
+{ margin: 0 ;
+  padding: 250;}
 
 body
 { font: normal 90% Arial, Helvetica, sans-serif;
@@ -129,7 +129,7 @@ ul#nav li
   background: transparent;}
 
 ul#nav li a
-{ float: left;
+{ float: center;
   font: bold 130% 'News Cycle', Arial, sans-serif;
   height: 24px;
   margin: 8px 20px 0 0;
@@ -225,12 +225,12 @@ ul img {
   height: 30px;}  
 
 #content
-{ width: 680px;
+{ width: 940px;
   margin: 0 0 20px 0;
   float: left;}
 
 .content_item
-{ width: 680px;
+{ width: 940px;
   margin-top: 20px;
   margin-bottom: 20px;}
   
@@ -239,25 +239,6 @@ ul img {
   margin: 20px 10px 0 0;
   float: left;}
   
-footer
-{ width: 940px;
-  height: 50px;
-  padding-top: 25px;
-  padding-bottom: 20px;  
-  font-weight: bold;
-  text-align: center; 
-  text-shadow: 1px 1px #000;
-  color: #FFF;
-  background: #0043A8;
-  background: -moz-linear-gradient(#43A9FF, #0043A8);
-  background: -o-linear-gradient(#43A9FF, #0043A8);
-  background: -webkit-linear-gradient(#43A9FF, #0043A8);
-  border-radius: 15px 15px 15px 15px;
-  -moz-border-radius: 15px 15px 15px 15px;
-  -webkit-border: 15px 15px 15px 15px;
-  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
-  -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
-  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;}
 
 footer a, footer a:hover
 { text-shadow: 1px 1px #FFF;
