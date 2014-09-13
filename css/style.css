@@ -12,7 +12,7 @@ html
   padding: 250;}
 
 body
-{ font: normal 90% Arial, Helvetica, sans-serif;
+{ font: normal 105% Times New Roman, Arial, Helvetica, sans-serif;
   color: #000;
 }
 
@@ -24,19 +24,19 @@ article, aside, figure, footer, header, hgroup, nav, section {
 p
 { padding: 0 0 10px 0;
   line-height: 1.7em;
-  font-size: 100% }
+  font-size: 105% }
 
 img
 { border: 0;}
 
 h1, h2, h3, h4, h5, h6 
-{ font: normal 175% 'News Cycle', Arial, sans-serif;
-  color: #000;
+{ font: normal 200% Arial, sans-serif;
+  color: #D5302A;
   letter-spacing: -1px;
   margin: 0 0 10px 0;}
 
 h2
-{ font: normal 165% 'News Cycle', Arial, sans-serif;}
+{ font: normal 225% 'News Cycle', Arial, sans-serif;}
 
 h3
 { font: normal 130% 'News Cycle', Arial, sans-serif;}
@@ -54,15 +54,15 @@ h5, h6
   padding-bottom: 15px;}
   
 span
-{ color: #FF0000;
-  text-shadow: none;}
+{ color: #0000;
+  text-shadow: #7f7f7f;}
 
 a, a:hover
-{ color: #000;
+{ color: #1c75bc;
   background: transparent;
   font-weight: bold;
   outline: none;
-  text-decoration: underline;}
+  text-decoration: none;}
 
 a:hover
 { text-decoration: none;}
@@ -82,6 +82,9 @@ ol li
 #main, header, #banner, #menubar, #site_content, footer, #content_grey, nav, #slideshow_container
 { margin-left: auto; 
   margin-right: auto;}
+ 
+  .testimony{ text-align: center;
+  }
   
 header
 { height: 150px;
